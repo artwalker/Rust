@@ -2,7 +2,9 @@
 
 Rust is depicted as a systems programming language possessing the speed and control features akin to C or C++, while also embodying the safety characteristics of high-level languages.
 
-<div style="text-align:center"><img src="./assets/rust.png" width="500" /></div>
+<p align="center">
+  <img width="500" src="./assets/rust.png">
+</p>
 
 ### Rust's Prominence in the Industry
 
