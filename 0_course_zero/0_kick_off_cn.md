@@ -2,7 +2,7 @@
 
 Rust 被描述为一种系统编程语言，具备类似 C 或 C++ 的速度和控制特性，同时也具备高级语言的安全性特点。
 
-<img src="./assets/rust.png" width="500" style="border:1px solid black">
+<div style="text-align:center"><img src="./assets/rust.png" width="500" /></div>
 
 ### Rust 在行业中的重要性
 
