@@ -1,0 +1,1 @@
+/media/xinxingwang/OneT/xinxingwang/1_Code/Github/Rust/2_step_two_RunCompileExecute/hello_world/target/debug/hello_world: /media/xinxingwang/OneT/xinxingwang/1_Code/Github/Rust/2_step_two_RunCompileExecute/hello_world/src/main.rs
