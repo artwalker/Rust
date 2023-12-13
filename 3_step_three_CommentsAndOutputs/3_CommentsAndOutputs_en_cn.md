@@ -1,6 +1,6 @@
-#### Rust Basic Programming One
+#### Comments And Outputs
 
-1. **Comments in Rust:**
+1. **Comments in Rust:**  
    Comments, ignored by compilers, enhance source code readability.
    - Rust comments start with double backslashes (`//`).
 
@@ -86,7 +86,7 @@
    
 ---
 
-#### Rust 基础编程一
+#### 注释和输出
 
 1. **Rust 中的注释：**
    注释在编译器中被忽略，有助于提高源代码的可读性。
@@ -104,7 +104,7 @@
       This is another line of the comment. */
    ```
 
-1. **基本的打印命令：**
+2. **基本的打印命令：**
    - `print!` 命令输出文本但不换行，而 `println!` 在打印后换行。
    - 语法涉及在双引号内使用占位符（`{}`），以替换为提供的值。
 
@@ -120,9 +120,18 @@
    ```
    ![](./assets/3_print_commands.png)
 
+   - 语法涉及在双引号内使用占位符（`{}`）来替换为提供的值。
+
+   ```rust
+   println!("--- Learning to print strings ---");
+   println!("My first name is {} and my last name is {}","Ethan", "Wang");
+   println!("----------------------------------\n");
+   ```
+   ![](./assets/3_learning_to_print_strings.png)
+
    打印字符串和数字需要正确的占位符格式。
 
-2. **转义序列：**
+3. **转义序列：**
    - 转义序列如 `\n`（新行）、`\t`（制表符）和 `\r`（回车）控制文本布局。
    - `\\` 打印反斜杠，`\'` 和 `\"` 在字符串内打印单引号和双引号。
 
@@ -139,7 +148,7 @@
    ```
    ![](./assets/3_escape_sequences.png)
 
-3. **位置参数和命名参数：**
+4. **位置参数和命名参数：**
    - 占位符可以使用位置参数（`{}`、`{}`、`{}`）或命名参数（`{language}`、`{activity}`）填充。
 
    ```rust
@@ -153,7 +162,7 @@
    ```
    ![](./assets/3_positional_and_namd_arguments.png)
 
-4. **打印基本数学运算：**
+5. **打印基本数学运算：**
    - 利用占位符允许在打印语句中打印数学运算的结果。
 
    ```rust
